@@ -3,4 +3,4 @@
 - new environment
 - setup.py
 - requirements.txt
-- 
+- src folder and build project
