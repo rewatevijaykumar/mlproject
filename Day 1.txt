@@ -1,0 +1,6 @@
+1. Setup github repository
+
+- new environment
+- setup.py
+- requirements.txt
+- 
