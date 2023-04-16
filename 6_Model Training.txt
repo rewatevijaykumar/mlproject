@@ -1,0 +1,5 @@
+1. Split Train and Test Data
+2. Create different machine learning models
+3. Evaluate models using r2_score
+4. Select best model having high r2_score
+5. Export best model to pickle file using Dill.dump
