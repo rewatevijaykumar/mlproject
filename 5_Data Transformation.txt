@@ -1,0 +1,14 @@
+1. Numerical Columns transformation
+ - pipeline
+ - simple imputer
+ - standard scaling
+
+2. Categorical Columns transformation
+ - pipeline
+ - simple imputer
+ - One Hot Encoding
+ - standard scaling
+
+3. Export Preprocessing Pickle File
+
+4. Export Train and Test Data
