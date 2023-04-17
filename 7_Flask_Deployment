@@ -1,0 +1,7 @@
+1. Create Prediction Pipeline
+- create dictionary of input variables
+2. Create Flask App
+- create html templates to create UI elements
+- Get data from user
+- predict writing score
+- display score to user 
