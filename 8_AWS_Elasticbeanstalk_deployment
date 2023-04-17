@@ -1,0 +1,5 @@
+1. Configuration
+2. application.py
+
+
+Github repository -> Code Pipeline (Continuous Delivery) -> AWS Elastic Beanstalk <- (Environment) Linux Machine - python.config
